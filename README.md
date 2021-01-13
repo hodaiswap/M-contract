@@ -18,8 +18,5 @@ make
 
 |目录|用途|
 |---|---|
-|forsage|forsage合约的代码|
-|lights|特殊手续费账户的合约代码|
-|donate|捐赠合约的代码|
 |swap|换币合约的代码|
 |miner|挖矿合约的代码|
